@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DC4UWiT+LDnvqInMXwpN0tBLnF7ohB4OFEh+9bBK6E8uF8+UktiTOHxE6arAd4TtWhI7EWcfUDXxZ4WoABgNlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UG004\\source\\repos\\MarsRoverConsoleApp\\MarsRoverConsoleApp\\MarsRoverConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UG004\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\UG004\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
